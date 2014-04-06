@@ -2880,6 +2880,7 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 }
 
 .hello {
--moz-animation-delay: 2s;
+-moz-animation-delay: 3s;
+-webkit-animation-delay: 3s;
 text-align:center
 }
